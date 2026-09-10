@@ -31,13 +31,6 @@
 | [estudo-front-end](https://github.com/Jeancarlos-77/estudo-front-end) | Estudos de front-end da faculdade |
 | [fundamento-web-cc](https://github.com/Jeancarlos-77/fundamento-web-cc) | Exercícios de Fundamentos Web em HTML |
 
-### 📊 Estatísticas
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jeancarlos-77&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeancarlos-77&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
-
 ---
 
 <p align="center">⭐ Obrigado pela visita!</p>
