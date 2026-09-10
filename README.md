@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Jeancarlos 👋</h1>
+<h1 align="center">Olá, eu sou o Jean carlos 👋</h1>
 
 <p align="center">
   Estudante de <b>Ciência da Computação</b> na <b>Unifran</b> (Franca/SP) · focado em <b>desenvolvimento front-end</b>
