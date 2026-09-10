@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Jean carlos 👋</h1>
 
 <p align="center">
-  Estudante de <b>Ciência da Computação</b> na <b>Unifran</b> (Franca/SP) · 
+  Estudante de <b>Ciência da Computação</b> na <b>Unifran</b> (Franca/SP) 
 </p>
 
 ---
