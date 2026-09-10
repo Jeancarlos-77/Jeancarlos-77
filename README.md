@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;duration=2800&amp;pause=1400&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=58&amp;repeat=true&amp;lines=Explorando+a+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o%3BAprendendo+e+criando+com+tecnologia%3BUm+projeto%2C+um+aprendizado+de+cada+vez" width="520" height="58" alt="Explorando a Ciência da Computação. Aprendendo e criando com tecnologia. Um projeto, um aprendizado de cada vez." />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Aprendizado-Cont%C3%ADnuo-2563EB?style=flat-square" alt="Aprendizado contínuo" />
   <img src="https://img.shields.io/badge/Oportunidades-Aberto%20a%20est%C3%A1gio-15803D?style=flat-square" alt="Aberto a oportunidades de estágio" />
 </p>
@@ -25,7 +29,7 @@ Sobre mim
 
 Sou estudante de Ciência da Computação e quero explorar diferentes áreas da tecnologia, entender como os sistemas funcionam e aprender a desenvolver soluções para problemas reais. Neste perfil, compartilho exercícios, projetos acadêmicos e os passos da minha evolução.
 
-Meus estudos atuais incluem Python, HTML, CSS, JavaScript e Git. O desenvolvimento web é uma das áreas que estou conhecendo ao longo da minha formação em computação.
+Atualmente, estudo Python, JavaScript e modelagem de bancos de dados, além de HTML, CSS e Git. Estou construindo minha base em programação, desenvolvimento web e organização de dados ao longo da graduação.
 
 🎓 Formação em andamento: Ciência da Computação na Unifran.
 
@@ -39,12 +43,24 @@ Tecnologias e ferramentas
 
 Algumas das tecnologias que fazem parte dos meus estudos atuais e das ferramentas que utilizo para desenvolver e organizar meus projetos.
 
-Desenvolvimento web
+Linguagens de programação
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python — em aprendizado" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript — em aprendizado" />
+</p>
+
+Estrutura e estilo para web
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5 — em aprendizado" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3 — em aprendizado" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript — em aprendizado" />
+</p>
+
+Modelagem de bancos de dados
+
+<p>
+  <img src="https://img.shields.io/badge/Modelagem%20de%20Bancos%20de%20Dados-4F46E5?style=for-the-badge" alt="Modelagem de bancos de dados — em aprendizado" />
 </p>
 
 Versionamento e ambiente de desenvolvimento
@@ -81,9 +97,11 @@ Próximos passos
 
 Fundamentos da computação: aprofundar lógica de programação, algoritmos e estruturas de dados.
 
-Novas áreas: conhecer diferentes campos da computação ao longo da graduação e descobrir onde quero me aprofundar.
+Python: avançar na resolução de exercícios e na criação de pequenos programas.
 
-Programação e ferramentas: ampliar meu repertório de linguagens, tecnologias e formas de resolver problemas.
+Modelagem de bancos de dados: praticar a representação de entidades, atributos e relacionamentos.
+
+Novas áreas: conhecer diferentes campos da computação ao longo da graduação e descobrir onde quero me aprofundar.
 
 Projetos e colaboração: aplicar os conhecimentos na prática, documentar os aprendizados e desenvolver experiência trabalhando em equipe.
 
